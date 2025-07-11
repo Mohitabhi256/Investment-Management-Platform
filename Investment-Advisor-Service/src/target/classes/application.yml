@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: AdvisorMS
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+  main:
+    allow-bean-definition-overriding: true
+server:
+  port: 2003
+eureka:
+ client:
+    service-url:
+      defaultZone: http://localhost:2000/eureka
