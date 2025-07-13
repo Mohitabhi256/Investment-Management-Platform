@@ -1,4 +1,4 @@
-# Investment Management Platform for Fintech Startup
+# Fintech Investment Management System
 
  An investment management platform built for a fintech startup, enabling investment advisors to create and manage stock baskets, and investors to track and manage their investments efficiently.
 
